@@ -13,7 +13,3 @@
   src: url('/fonts/RoobertTRIAL-Light.ttf') format('truetype');
   font-weight: 300;
 }
-
-body {
-  @apply bg-primary text-black font-roobert;
-}
